@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 <!--
 theme: gaia
 class:
@@ -8,122 +12,83 @@ paginate: true
 
 <!--
 _class:
- - lead
+ - leads
  - invert
 -->
 
-# Deploy Marp to GitHub Pages
+# Discussion: DRUID 2021 Session - Organisation Behaviour
+Roman Jurowetzki, Aalborg University Business School, DK
 
-Presentations to Webpages: Instantly!
+# Organization structure of development and firm innovation
+Jiho Yang, Paola Criscuolo
 
-## What?
+## Recap
 
-[Marp](https://marp.app/) lets you create HTML slides from markdown (like this!).
+* **How does organizational structure influence development outcomes?** - R&D unbundling
+* centralization of development and mechanisms influencing innovative outcomes
+* avoiding duplication vs ensuring implementation (transaction costs when transferring outcomes across units)
+* it depends: "...need for considering the nature of tasks when predicting the effect of organization structure on firm outcomes."
+* additional contributions corporate strategy and structure: "no optimal organization structure for relatively diversified firm."
 
-This presentation is both a [website](https://alexsci.com/marp-to-pages) and a [README.md](https://github.com/ralexander-phi/marp-to-pages/blob/main/README.md).
+## Feedback
+* First
+* Well written
+* Detailed view on R&D
+* Nice case and rich data
+* Relevant results / managerial implications
 
-## Why?
+## More Feedback
+* What happened to the interviews?
+* Is the new central unit complementary / competing?
+* Can you be more explicit about your fundings upfront?
+* Interaction of qualitative & quantitative elements wrt results
+* Cosine Similarity important measure: robustness check here: STS checks
+* What does cosine similarity to previeous tell us here? Also, max-value is very low.
 
-Treat your presentation the same way you treat code.
+# The relational value of innovation units
+Katherine Tatarinov, Tina Ambos, Julian Birkinshaw
 
-- Use git to track changes
-- Pull requests to collaborate
-- Deploy automatically
-- See a problem? Open an issue!
+## Recap
+* Ambidexterity in innovation units
+* Do innovation units contribute more than just with product/process innovation?
+* are they shaping valuable relations in the organization?
+* Propositions
+    * Complexity of the context and relational value (positive link)
+    * Breadth (scope) of the relational value i.e. internal/external; linking/building vs longevity and legitimity (positive link)
+    * Evolution of the organizations - processes of ambidexterity and integration
 
-## Setup
+## Feedback
 
-Want to create your own?
+* exciting case within a "mission-oriented" context
+* awareness of the potential transferability issues to to other settings
+* Managerial implications?
+* Do we (in the good cases) observe increasing complexity and "organizational power" as the unit matures?
+* Could there be a quantitative follow-up? Abductive / Theory building?
 
-First, create a new repo [from the template repo](https://github.com/ralexander-phi/marp-to-pages).
 
-![](img/use-template.png)
+# Innovation configurations and firm performance: an fsQCA approach
+Ed Saiedi, Simon Okwir, Vikash Sinha
 
-## Configure GitHub Pages
+## Recap
 
-Open your new repo and [setup publishing](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+* different combinations of innovation dypes (configurations) given variable regulation and size
+* fsQCA used to look at performance (- intereting method)
+* distinguish knowledge-intensive vs research-intensive
+* identify configurations that deliver performance
 
-You'll typically use `gh-pages` as the deploy branch.
+## Feedback
+* interesting method
+* ambition to explore more complex configurations / specific cases between quant/qual
 
-## Review Build
+* what do we learn? Describing more ≠ explaining more?
 
-Click on Actions tab and see if the build succeeded (it may take some time).
+* >In lightly regulated industries, knowledge-intensive firms in the majority of the identified cases were able to achieve high performance when they combined their process innovation with marketing innovation
 
-![](img/click-actions.png)
 
-You should now see the generated files in the `gh-pages` branch.
-
-## View webpage
-
-Open your deployed webpage to see the content.
-
-Out of the box you should see `README.md` as `/index.html` and `/README.pdf`. Slides under `docs/` are also converted.
-
-## Running locally
-
-Locally you'll run commands like:
-
-```
-$ marp README.md -o build/README.pdf
-```
-
-or
-
-```
-$ npx @marp-team/marp-cli@latest README.md -o build/README.pdf
-```
-
-## As a workflow step
-
-The workflow runs an equivalent step:
-
-```
-- name: Marp Build (README.pdf)
-  uses: docker://marpteam/marp-cli:v1.7.0
-  with:
-    args: README.md -o build/README.pdf
-  env:
-    MARP_USER: root:root
-```
-
-Note the `args` match the previous slide.
-
-## Customizing the build
-
-Anything in the `build/` folder will be deployed to GitHub Pages.
-
-You can copy extra files or run further processing steps using other tools.
-
-## Learn more about Marp
-
-This is a good time to learn more about Marp. Here's some resources:
-
-- [CommonMark](https://commonmark.org/)
-- [Cheat Sheet](https://commonmark.org/help/)
-- [Themes](https://github.com/marp-team/marp-core/tree/master/themes)
-- [CSS Themes](https://marpit.marp.app/theme-css)
-- [Directives](https://marpit.marp.app/directives)
-- [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
-
-## Example Sites
-
-Known sites using this action are:
-
-- [University of Illinois at Urbana-Champaign's CS 199 Even More Practice](https://cs199emp.netlify.app/) [(code)](https://github.com/harsh183/emp-125)
-- [Exploring agent based models](https://roiarthurb.github.io/Talk-UMMISCO_06-07-2020/) [(code)](https://github.com/RoiArthurB/Talk-UMMISCO_06-07-2020)
-
-Send a [pull request](https://github.com/ralexander-phi/marp-to-pages) to get your site added.
-
-## Publish your slides
-
-When you are ready to share your presentation, commit or merge to `main` and your content on GitHub Pages will automatically update.
-
-# 🎉
-<!--
-_class:
- - lead
- - invert
--->
-### Hooray!
-
+## More Feedback
+* role of industry
+* >innovation configuration leading to high firm performance are greatly influenced by the industrial context
+* Is it a part of the German CIS?
+* wordy (I'm no expert in this particular area)
+* descriptive pre-study to a quantitative exerciese
 
