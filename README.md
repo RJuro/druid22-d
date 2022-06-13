@@ -24,14 +24,20 @@ Cesare Righi
 
 ## Recap
 
-* **How does organizational structure influence development outcomes?** - R&D unbundling
-* centralization of development and mechanisms influencing innovative outcomes
+* **The use of continuations leads to more litigation.** 
+* Yes!
+* Submarine patenting 😬 - that's not nice.
+* Limiting may help reduction of litigation
+* Yet: investment in innovsation may be reduced
 
 ## Feedback
-* First
+* Excellent insight into the processes of litigation
+* Well written
+* Takes various perspectives (one by one)
 
 ## More Feedback
-* What happened to the interviews?
+* Data: Patstat Fall 2014 (is the age an issue?)
+* Textual distance. How well does Keyword-Jaccard really capture scope in clames?
 
 # NPEs, Patent Quality and Litigation Strategies across European Jurisdictions
 Valerio Sterzi, Cecilia Maronero, Andrea Vezzulli
