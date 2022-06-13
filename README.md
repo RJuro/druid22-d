@@ -38,6 +38,8 @@ Cesare Righi
 ## More Feedback
 * Data: Patstat Fall 2014 (is the age an issue?)
 * Textual distance. How well does Keyword-Jaccard really capture scope in clames?
+* Structure a bit confusing - several waves of analysis creates an impression of more than 1 paper in a paper
+* More focus on potential consequences for investment in innovation
 
 # NPEs, Patent Quality and Litigation Strategies across European Jurisdictions
 Valerio Sterzi, Cecilia Maronero, Andrea Vezzulli
