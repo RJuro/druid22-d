@@ -90,6 +90,7 @@ Zhe Yang, Nikolaos Papagergiadis, Andreas Procopiou, Wolfgang Sofka
 
 ## Some reflection
 * "Trial decision" variable name a bit ambiguous 
+* Descriptives?
 * Potential differences in other legal regimes (see paper 2)
 * Interaction with the legal / tech. team; How much is it really about the CEO?
 * Governance of IP and CEO involvement?
