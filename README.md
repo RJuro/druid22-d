@@ -27,8 +27,9 @@ Roman Jurowetzki, Aalborg University Business School, DK
 
 # Continuation Patents and Litigation
 Cesare Righi
-![bg left](https://source.unsplash.com/ypJ3VfxvF5M)
 
+<!-- ![bg left](https://source.unsplash.com/ypJ3VfxvF5M) -->
+![bg left](img/submarine.jpg)
 
 ## Recap
 
