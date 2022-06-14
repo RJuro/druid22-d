@@ -19,20 +19,22 @@ _class:
 # Discussion: DRUID 2022 Session - Markets for technology: Litigation
 Roman Jurowetzki, Aalborg University Business School, DK
 
-# Great very "niche" session
+# Great, somewhat "niche" session
 * I learned a lot about agency in patenting
-* As IP analytics person sometimes we are maybe a bit *naive* about patents
+* As an IP analytics person sometimes we are maybe a bit *naive* about patents
 * Probably the 3 presenters should have a drink of your choice together and "cross-pollinate"
-* Overview of exciting data sources
+* Overview of exciting data sources 💾
 
 # Continuation Patents and Litigation
 Cesare Righi
+![bg left](https://source.unsplash.com/ypJ3VfxvF5M)
+
 
 ## Recap
 
 * **The use of continuations leads to more litigation.** 
-* Yes!
-* Submarine patenting 🐡 - that's not nice 😬
+* Yes! - Thorough econometrics.
+* Submarine patenting and claims 🐡🐠 - that's not nice 😬
 * Limiting the practice may help reduction of litigation
 * Yet: investment in innovation may be reduced
 
@@ -49,6 +51,7 @@ Cesare Righi
 
 # NPEs, Patent Quality and Litigation Strategies across European Jurisdictions
 Valerio Sterzi, Cecilia Maronero, Andrea Vezzulli
+![bg right](https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2021/12/shutterstock_1365321428.jpg)
 
 ## Recap
 * Early draft and an array of ideas for future development
@@ -58,16 +61,20 @@ Valerio Sterzi, Cecilia Maronero, Andrea Vezzulli
 * NPEs less likely to assert in 🇬🇧/🇫🇷
 * However more likely to assert in 🇬🇧/🇫🇷 for higher quality patents (forward citations) vs incremental (backward citations)
 
-## Feedback
+## Some reflections
 
-* Who are NPEs...really?
-* How many and how much?
+* How many and how much? (more input in the presentation)
 * Useful functions? Should PEs learn from NPEs?
+* Great data and approach.
+* Interesting research outlook. Especially specificity of courts.
 * Policy implications?
+
 
 
 # CEO Overconfidence and the Decision to take a Patent Litigation Case to Trial
 Zhe Yang, Nikolaos Papagergiadis, Andreas Procopiou, Wolfgang Sofka
+![bg left](https://source.unsplash.com/MYbhN8KaaEc)
+
 
 ## Recap
 
@@ -81,9 +88,9 @@ Zhe Yang, Nikolaos Papagergiadis, Andreas Procopiou, Wolfgang Sofka
 ## Some reflection
 * "Trial decision" variable name a bit ambiguous 
 * Potential differences in other legal regimes (see paper 2)
-* Interaction with the legal / tech. team
+* Interaction with the legal / tech. team; How much is it really about the CEO?
 * Governance of IP and CEO involvement?
 * How much is it "gambling” and political? What does it tell us about the overall system?
-* Follow-up needed! e.g., qualitative interviews
+* Probably follow-up needed. e.g., qualitative interviews
 
 
