@@ -19,7 +19,7 @@ _class:
 # Discussion: DRUID 2022 Session - Markets for technology: Litigation
 Roman Jurowetzki, Aalborg University Business School, DK
 
-# Great very "nice" session
+# Great very "niche" session
 * I learned a lot about agency in patenting
 * As IP analytics person sometimes we are maybe a bit *naive* about patents
 * Probably the 3 presenters should have a drink of your choice together and "cross-pollinate"
