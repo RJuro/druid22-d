@@ -67,6 +67,8 @@ Valerio Sterzi, Cecilia Maronero, Andrea Vezzulli
 * How many and how much? (more input in the presentation)
 * Useful functions? Should PEs learn from NPEs?
 * Great data and approach.
+* Patent quality indicators.
+* Econometrics may need some work (already mentioned...)
 * Interesting research outlook. Especially specificity of courts.
 * Policy implications?
 
